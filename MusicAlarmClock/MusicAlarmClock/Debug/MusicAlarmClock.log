@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ron\desktop\musicalarmclock\musicalarmclock\main.cpp(87): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  MusicAlarmClock.vcxproj -> C:\Users\Ron\Desktop\MusicAlarmClock\Debug\MusicAlarmClock.exe
